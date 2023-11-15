@@ -10,4 +10,4 @@ Finding the shortest way to find if a player has won or lost.
 I would create a Ai That could read the board and choose a open * that would blokck the user and would give him a chance to win.
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
 
-It doesnt need to be super technicl it would just need to be able to check the board for already placed things then be able to pick something open.
+It doesnt need to be super technicl it would just need to be able to check the board for already placed things then be able to pick something open.Then check all the results if the user placed something around the board.Then place again basedon te userslast play.
